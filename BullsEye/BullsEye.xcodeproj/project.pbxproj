@@ -14,6 +14,7 @@
 		804504E42BFCE58700B7C48E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 804504E32BFCE58700B7C48E /* Assets.xcassets */; };
 		804504E72BFCE58700B7C48E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 804504E62BFCE58700B7C48E /* Base */; };
 		805B96EE2C060143009D66A5 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 805B96ED2C060143009D66A5 /* AboutViewController.swift */; };
+		805B96F02C060B3B009D66A5 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 805B96EF2C060B3A009D66A5 /* BullsEye.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		804504E62BFCE58700B7C48E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		804504E82BFCE58700B7C48E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		805B96ED2C060143009D66A5 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		805B96EF2C060B3A009D66A5 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		804504D92BFCE58600B7C48E /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				805B96EF2C060B3A009D66A5 /* BullsEye.html */,
 				804504DA2BFCE58600B7C48E /* AppDelegate.swift */,
 				804504DC2BFCE58600B7C48E /* SceneDelegate.swift */,
 				804504DE2BFCE58600B7C48E /* ViewController.swift */,
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				804504E42BFCE58700B7C48E /* Assets.xcassets in Resources */,
+				805B96F02C060B3B009D66A5 /* BullsEye.html in Resources */,
 				804504E72BFCE58700B7C48E /* Base in Resources */,
 				804504E22BFCE58600B7C48E /* Base in Resources */,
 			);
